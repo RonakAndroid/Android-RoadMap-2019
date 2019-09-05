@@ -28,10 +28,12 @@ If you think anything is missing or should not be there, or should be different,
 [Here](./docs/contributing.md) you can find how to contribute to the roadmap.
 
 ## Authors
+[0]:     https://medium.com/@ronak.thakkar.mi
 
 [2.1]: https://github.com/RonakAndroid (follow me on github)
 
 [1]: https://twitter.com/AndroidRonak
+
 
 
 ## Licence
